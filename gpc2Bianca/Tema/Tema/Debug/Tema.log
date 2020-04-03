@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (tema2gpc.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  tema2.cpp
+  Tema.vcxproj -> C:\Users\bianc\OneDrive\Desktop\Grafica pe calculator\gpc2Bianca\Tema\Debug\Tema.exe
